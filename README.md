@@ -10,13 +10,13 @@ un "Hola Mundo" en Java, el cual es casi siempre, el primer paso de todos los pr
 ### Requisitos:
 
 Para poder ejecutar este proyecto, deberás de tener instalado el JDK y un IDE como Visual Studio Code.
-Puedes encontrar más información de los requisitos para poder instalar este proyecto en nuestra Wiki
+Puedes encontrar más información de los requisitos para poder instalar este proyecto en nuestra * [Wiki](https://github.com/gerardopimentel1/gerardopimentel/wiki)
 
 
 ### Guía rápida de instalación:
 
 Para instalar este programa debes hacer click en el botón "Código" y seguidamente en la opción "Descargar ZIP"
-Puedes encontrar más información sobre los pasos para poder instalar este proyecto en nuestra Wiki
+Puedes encontrar más información sobre los pasos para poder instalar este proyecto en nuestra * [Wiki](https://github.com/gerardopimentel1/gerardopimentel/wiki)
 
 
 ### Autores

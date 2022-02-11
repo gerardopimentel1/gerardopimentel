@@ -1,5 +1,5 @@
-# gerardopimentel
-# Colaborador: Gerardo Pimentel Serrano
+# Hola Mundo en Java
+## Colaborador: Gerardo Pimentel Serrano
 
 ### Descripción:
 
